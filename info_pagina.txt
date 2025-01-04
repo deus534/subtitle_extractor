@@ -1,0 +1,21 @@
+por ahora vamos con toda la informacion de la pagina:
+ + nombre pagina: opensubtitles.org
+ + url pagina: https://www.opensubtitles.org/es "destinado para spanish"
+ + busqueda de pelicula: https://www.opensubtitles.org/es/search2/moviename-nombre+pelicula/sublanguageid-spa,spl
+	.) nombre pelicula => nombre+pelicula
+	.) 
+ + seleccion de pelicula-serie: https://www.opensubtitles.org/es/ssearch/sublanguageid-spa,spl/id_move
+ 	.) id_move depende del anterior, donde esta en una tabla, por asi decirlo, luego de clickear se entra en la misma
+
+ + seleccion capitulo: https://www.opensubtitles.org/es/search/sublanguageid-spa,spl/imdbid-3464768
+ 	.) donde lo ultimo es el id del capitulo
+ + seleccion del sub: 
+ 	.) ejemplos
+		.) better calll saul
+	 	https://www.opensubtitles.org/es/subtitles/12776070/better-call-saul-uno-es
+		https://www.opensubtitles.org/es/subtitles/6040161/better-call-saul-uno-es
+		https://www.opensubtitles.org/es/subtitles/6040161/better-call-saul-uno-es
+		.) from
+		https://www.opensubtitles.org/es/subtitles/12766891/from-shatter-ea
+		https://www.opensubtitles.org/es/subtitles/12814159/from-scar-tissue-ea
+ 	-) donde el numero diria que es el id del subtitulo, y lo otro es masumenos nombre-nombre-de-sub-ea o -es
